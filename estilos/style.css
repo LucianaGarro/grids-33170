@@ -1,0 +1,14 @@
+div{
+    
+    
+    background-color: pink;
+    margin:5px;
+}
+
+.padre{
+    height: 500px;
+    background-color: grey;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 2fr 2fr 1fr;
+}
